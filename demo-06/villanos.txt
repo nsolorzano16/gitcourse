@@ -4,3 +4,5 @@
  
 flash reverso los locos
 no locos
+flash reverso
+buscar
